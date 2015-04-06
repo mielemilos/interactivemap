@@ -1,0 +1,22 @@
+This a arduino project in which I wanted to test the limits on what I could do with 
+an arduino.
+
+I tried to get as much led in it as I was willing to solder.
+I tried to get as much text in in as I could so I would hit memory problems and needed to solve those
+I wanted to use "responsive" buttons: detect combinations and click-rates and stuff
+I wanted to use a state machine (or something like it)
+
+And I wanted it to be playable.
+
+This is a first commit.
+
+I still need to add schema's and make shure links to orginal sources are ok.
+
+The button class is a "fork" from a example placed on the arduino forums.
+This had some issues with timing and using it on multiple buttons so i changed it to allow
+use of, at least, four buttons.
+
+
+
+
+ 
